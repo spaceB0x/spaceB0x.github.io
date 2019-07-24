@@ -3,4 +3,4 @@ layout: misc
 title: About
 ---
 
-Millennial is a minimalist Jekyll theme. The purpose of this theme is to provide a simple, clean, content-focused publishing platform for your publication site or blog. You can find everything you need to get started under documentation. For more information on how to install and use this theme, check out [the documentation]({{ site.github.url }}{% post_url 2016-10-10-getting-started %}).
+My name is Tyler Welton. In some parts of the internet I go by spaceB0x. I have been tinkering and with the insides of computers since I was young. My obsessive curiosity and youthful mischievousness evolved over many years into a career in information security. I currently have the privilege of working for a terrific software company Built Technologies, helping with all things security. I love helping organizations solve security problems, and aiding them to think like an adversary so that they can mitigate the adversary. Let’s do something cool together.
